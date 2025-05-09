@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Quarz_Test.MvcApplication" Language="C#" %>
