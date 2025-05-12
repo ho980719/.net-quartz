@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quarz-Test", "Quarz-Test\Quarz-Test.csproj", "{32C3B9B8-E9B6-4376-A527-B9BB64DBE431}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz-Test", "Quartz-Test\Quartz-Test.csproj", "{32C3B9B8-E9B6-4376-A527-B9BB64DBE431}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
